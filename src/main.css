@@ -1,0 +1,17 @@
+.main {
+    width: 90vw;
+    align-self: center;
+    justify-self: center;
+}
+
+.container {
+    margin-top: 48px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h3 {
+    text-align: center;
+}
